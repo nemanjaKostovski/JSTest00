@@ -21,8 +21,9 @@ let sum1 = k;
 let s;
    
     for (let i = 1; i <= n; i++) {
-        sum += i;
-        sum1 += i;
+        sum += 1;
+        sum1 += 1;
         s = sum /sum1;
         console.log(s);
     }
+    //9

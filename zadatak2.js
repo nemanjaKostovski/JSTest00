@@ -11,4 +11,4 @@ for (let i = m; i <= n; i++) {
 }
 
 let average = sum / counter;
-console.log(average);
+console.log(average);//20

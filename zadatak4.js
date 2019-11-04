@@ -37,4 +37,4 @@ switch (month) {
         break;
 }
 
-console.log(dayInMonth);
+console.log(dayInMonth);//20
